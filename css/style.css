@@ -1,0 +1,64 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+header{
+    background-image: url("../images/beach1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    font-size: 100px;
+    text-align: center;
+    text-justify: auto;
+}
+
+ .details{
+     background-color: rgb(204, 200, 200);
+ }
+ .weather-text{
+     color:#000;
+ }
+ .details-input{
+    text-align: center;
+    
+ }
+
+ .text{
+    width: 200px;
+    height: 20px;
+    margin-top: 5px;
+    
+ }
+ .button{
+    height: 30px;
+    box-shadow: 1px 1px 0.5px black;
+    outline: none;
+ }
+ .result {
+     text-align: center;
+     text-justify: auto;
+     background-color: ghostwhite;
+     padding: 50px;
+ }
+.result ul{
+    text-decoration: none;
+    margin-top: 20px;
+}
+.result ul li{
+    list-style-type: none;
+    padding: 20px;
+
+}
+.text{
+    height: 30px;
+    border-radius: 5px;
+    outline: none;
+}
+
+
+
+ 
+
